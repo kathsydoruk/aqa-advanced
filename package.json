@@ -1,0 +1,24 @@
+{
+  "name": "aqa-project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node \"./nodeBasics/index.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathsydoruk/aqa-advanced.git"
+  },
+  "author": "kathsydoruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kathsydoruk/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/kathsydoruk/aqa-advanced#readme",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  }
+}
