@@ -33,8 +33,3 @@ Promise.race([getTodo(), getUser()])
   .catch((error) => {
     console.error("Error:", error.message);
   });
-
-
-  const somePromise = Promise.all([])
-
-  const someResult = await somePromise;
